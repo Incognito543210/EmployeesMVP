@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Kasia</Name>
+    <LastName>Malik</LastName>
+    <Position>Projektant</Position>
+    <Salary>2100</Salary>
+    <Data>14.04.2023</Data>
+    <Arragment>umowa na czas określony</Arragment>
+  </Employee>
+  <Employee>
+    <Name>Aleksandra</Name>
+    <LastName>Masłowska</LastName>
+    <Position>Młodszy programista</Position>
+    <Salary>2200</Salary>
+    <Data>13.04.2023</Data>
+    <Arragment>umowa zlecenie</Arragment>
+  </Employee>
+  <Employee>
+    <Name>Krzysztof</Name>
+    <LastName>Kusnik</LastName>
+    <Position>Tester</Position>
+    <Salary>2375</Salary>
+    <Data>16.06.1994</Data>
+    <Arragment>umowa na czas nieokreślony</Arragment>
+  </Employee>
+  <Employee>
+    <Name>Ala</Name>
+    <LastName>Masłowska</LastName>
+    <Position>Młodszy programista</Position>
+    <Salary>2200</Salary>
+    <Data>13.04.2023</Data>
+    <Arragment>umowa zlecenie</Arragment>
+  </Employee>
+</ArrayOfEmployee>
